@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Homepage styles */
+.homepage {
+    color: #00a2ff;
+    text-align: center;
+    font-family: 'Tahoma', sans-serif;
+}
+
+.home-header {
+    font-size: 28px;
+    text-align: center;
+}
+
+.index-list {
+    list-style: none;
+    text-align: center;
+}
+
+/* All page styles */
+a {
+    color: #00a2ff;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: #003d60;
+}
+
+body {
+    color: #00a2ff;
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Recipe page styles */
+.backhome {
+    text-align: center;
+}
