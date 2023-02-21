@@ -3,17 +3,25 @@
 /* Homepage styles */
 .homepage {
     color: #00a2ff;
-    text-align: center;
     font-family: 'Tahoma', sans-serif;
+    border: 5px solid;
+    border-radius: 15px;
+    border-color: #00a2ff;
 }
+
 
 .home-header {
     font-size: 28px;
     text-align: center;
 }
 
+.home-subheader {
+    text-align: center;
+}
+
 .index-list {
     list-style: none;
+    padding-left: 0;
     text-align: center;
 }
 
